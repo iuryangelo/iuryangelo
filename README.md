@@ -13,7 +13,7 @@ Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
  - iuryangelo@outlook.com
  - iury.goncalves@ufes.br
 
-### [CV Lattes](http://lattes.cnpq.br/4877304814912378) (in portuguese; you can switch to English in the top menu)
+### [CV Lattes](http://lattes.cnpq.br/4877304814912378) 
 
 ### Education
 
