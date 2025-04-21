@@ -48,7 +48,7 @@ Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
 
 [![Instagram](https://img.shields.io/badge/@seu_usuario-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iury.angelo)
 
-[![Blog UFES](https://img.shields.io/badge/Blog%20da%20Universidade-2ECC71?style=for-the-badge&logo=book&logoColor=white)](https://blog.ufes.br/iurygoncalves/author/iury-goncalves/)
+[![Blog da UFES](https://img.shields.io/badge/Blog%20da%20UFES-2ECC71?style=for-the-badge&logo=readthedocs&logoColor=white)](https://blog.ufes.br/iurygoncalves/author/iury-goncalves)
 
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
