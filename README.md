@@ -8,18 +8,30 @@ Our group’s research interests are  in the modeling of physical processes gene
  - Air-Sea transfer models for the air-sea exchange of carbon dioxide in Sea Spray
  - The effect of Sheltering surface on the momentum flux at the air-sea interface
  - CO2 flux climatology at the air-sea interface
-    
 
-### Office address
+### Research Projects
+**Current projects:**
+- A climatological study of the effect of spume droplets on CO2 gas exchange between the atmosphere and the ocean
+- Assessment of the wave spatial shelter in the air–sea momentum flux
+- The effect of shortwave spectrum on the momentum flux at the air-sea interface
+
+
+### Courses Taught
+- DMA05670 - Differential and Integral Calculus
+- DMA13779 - Numerical Calculus
+- DMA06580 - Ordinary Differential Equation
+- POAM0104 - Introduction to parameterization of physical processes at the air-sea interface
+
+
+
+
+
+### Office address - UFES
 
 Department of Applied Mathematics, Federal University of Espírito Santo (UFES) 
 Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
 
-### E-mail address
- - iuryangelo@outlook.com
- - iury.goncalves@ufes.br
 
-### [CV Lattes](http://lattes.cnpq.br/4877304814912378) 
 
 ### Education
 
@@ -30,10 +42,5 @@ Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
         - Title: Parametrizações dos Efeitos da Quebra de Ondas Oceânicas e Gotículas na Modelagem Numérica dos Processos de Troca de CO2, Momentum e Calor na Interface Oceano-Atmosfera
 
 
-### Research:
+### [CV Lattes](http://lattes.cnpq.br/4877304814912378) 
 
-    Understanding and identifying the processes that control the global cycling of carbon
-    Alkalinity, aragonite saturation and acidification studies
-    Carbonate and borate chemistry in Arctic marginal ice zones
-    Measuring the distributions and transport of organic contaminants
-    Development of passive chemical samplers for the monitoring of organic contaminants
