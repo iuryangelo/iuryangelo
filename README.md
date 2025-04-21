@@ -5,16 +5,16 @@ Our group’s research interests are  in the modeling of physical processes gene
 
 
 #### Research
- - Air-sea transfer models for the air-sea exchange of carbon dioxide in sea-spray
+ - Air-sea transfer models for the air-sea exchange of carbon dioxide (CO2) in sea-spray
  - The effect of sheltering surface on the momentum flux at the air-sea interface
  - CO2 flux climatology at the air-sea interface
 
 ### Research Projects
 **Current projects:**
-- A climatological study of the effect of spume droplets on CO2 gas exchange between the atmosphere and the ocean
-- [CO2 flux induced by spume droplets](https://link.springer.com/article/10.1007/s10546-018-0369-z) 
-- Assessment of the wave spatial shelter in the air–sea momentum flux
 - [The effect of shortwave spectrum on the momentum flux at the air-sea interface](https://link.springer.com/article/10.1007/s10546-023-00842-w)
+- [CO2 flux induced by spume droplets](https://link.springer.com/article/10.1007/s10546-018-0369-z) 
+- A climatological study of the effect of spume droplets on CO2 gas exchange between the atmosphere and the ocean
+- Assessment of the wave spatial shelter in the air–sea momentum flux
 
 
 ### Courses Taught
@@ -38,17 +38,20 @@ Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
    - MSc in Meteorology – National Institute for Space Research, INPE (2009), “mass and heat fluxes modeling”
      -  Title: Impacto do Efeito da Quebra de Ondas Oceânicas na Estrutura da Camada Limite Atmosférica
    - PhD in Meteorology – National Institute for Space Research, INPE (2014), “WW3-WRF Coupled modeling”
-        - Title: Parametrizações dos Efeitos da Quebra de Ondas Oceânicas e Gotículas na Modelagem Numérica dos Processos de Troca de CO2, Momentum e Calor na Interface Oceano-Atmosfera
+        - Title: [Parametrizações dos Efeitos da Quebra de Ondas Oceânicas e Gotículas na Modelagem Numérica dos Processos de Troca de CO2, Momentum e Calor na Interface Oceano-Atmosfera](http://mtc-m16d.sid.inpe.br/col/sid.inpe.br/mtc-m19/2014/01.20.13.29/doc/publicacao.pdf)
 
 
 
-## 🚀 Tecnologias e Contato
-
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+## 🚀 Contato e Tecnologias 
 
 [![Lattes](https://img.shields.io/badge/Lattes-004080?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQ4IiBoZWlnaHQ9IjY0OCIgdmlld0JveD0iMCAwIDY0OCA2NDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMzI0IiBjeT0iMzI0IiByPSIzMjQiIGZpbGw9IiMwMDQwODAiIC8+PC9zdmc+) ](http://lattes.cnpq.br/4877304814912378)
 
 [![Instagram](https://img.shields.io/badge/@seu_usuario-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iury.angelo)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+
+
 
 
