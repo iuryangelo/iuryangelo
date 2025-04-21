@@ -5,15 +5,16 @@ Our group’s research interests are  in the modeling of physical processes gene
 
 
 #### Research
- - Air-Sea transfer models for the air-sea exchange of carbon dioxide in Sea Spray
- - The effect of Sheltering surface on the momentum flux at the air-sea interface
+ - Air-sea transfer models for the air-sea exchange of carbon dioxide in sea-spray
+ - The effect of sheltering surface on the momentum flux at the air-sea interface
  - CO2 flux climatology at the air-sea interface
 
 ### Research Projects
 **Current projects:**
 - A climatological study of the effect of spume droplets on CO2 gas exchange between the atmosphere and the ocean
+- [CO2 flux induced by spume droplets](https://link.springer.com/article/10.1007/s10546-018-0369-z) 
 - Assessment of the wave spatial shelter in the air–sea momentum flux
-- The effect of shortwave spectrum on the momentum flux at the air-sea interface
+- [The effect of shortwave spectrum on the momentum flux at the air-sea interface](https://link.springer.com/article/10.1007/s10546-023-00842-w)
 
 
 ### Courses Taught
@@ -21,8 +22,6 @@ Our group’s research interests are  in the modeling of physical processes gene
 - DMA13779 - Numerical Calculus
 - DMA06580 - Ordinary Differential Equation
 - POAM0104 - Introduction to parameterization of physical processes at the air-sea interface
-
-
 
 
 
@@ -35,7 +34,7 @@ Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
 
 ### Education
 
-   - Degree in mathematics – UFES (2007)
+   - Degree in mathematics – UFES (2006)
    - MSc in Meteorology – National Institute for Space Research, INPE (2009), “mass and heat fluxes modeling”
      -  Title: Impacto do Efeito da Quebra de Ondas Oceânicas na Estrutura da Camada Limite Atmosférica
    - PhD in Meteorology – National Institute for Space Research, INPE (2014), “WW3-WRF Coupled modeling”
