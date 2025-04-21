@@ -42,5 +42,14 @@ Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
         - Title: Parametrizações dos Efeitos da Quebra de Ondas Oceânicas e Gotículas na Modelagem Numérica dos Processos de Troca de CO2, Momentum e Calor na Interface Oceano-Atmosfera
 
 
-### [CV Lattes](http://lattes.cnpq.br/4877304814912378) 
+
+## 🚀 Tecnologias e Contato
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+
+[![Lattes](https://img.shields.io/badge/Lattes-004080?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQ4IiBoZWlnaHQ9IjY0OCIgdmlld0JveD0iMCAwIDY0OCA2NDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMzI0IiBjeT0iMzI0IiByPSIzMjQiIGZpbGw9IiMwMDQwODAiIC8+PC9zdmc+) ](http://lattes.cnpq.br/4877304814912378)
+
+[![Instagram](https://img.shields.io/badge/@seu_usuario-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iury.angelo)
+
 
