@@ -52,6 +52,6 @@ Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
 
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 
-
+![kshel](https://img.shields.io/badge/kshel-2ECC71?style=for-the-badge&logo=terminal&logoColor=white)
 
 
